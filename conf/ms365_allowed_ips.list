@@ -4,4 +4,5 @@
 # 192.168.1.10
 # 10.0.0.0/24
 # 172.16.0.5
-
+# Uncomment and modify these examples to enable MS365 access
+10.1.41.100

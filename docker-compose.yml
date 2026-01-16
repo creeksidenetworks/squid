@@ -9,8 +9,9 @@
 services:
   squid:
     image: ubuntu/squid
-    container_name: squid-proxy
+    container_name: squid
     restart: always
+    user: "0:0"
     ports:
       - "3128:3128"
     volumes:
@@ -20,5 +21,6 @@ services:
       - ./conf/ms365_allowed_ips.list:/etc/squid/ms365_allowed_ips.list
       - ./data/cache:/var/spool/squid
       - ./data/logs:/var/log/squid
+    entrypoint: /bin/sh -c "/usr/sbin/squid -N -u root"
 
 

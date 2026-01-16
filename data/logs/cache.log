@@ -1,0 +1,131 @@
+2026/01/16 22:49:47| Processing Configuration File: /etc/squid/squid.conf (depth 0)
+2026/01/16 22:49:47| Created PID file (/run/squid.pid)
+2026/01/16 22:49:47 kid1| Processing Configuration File: /etc/squid/squid.conf (depth 0)
+2026/01/16 22:49:47 kid1| Current Directory is /
+2026/01/16 22:49:47 kid1| Creating missing swap directories
+2026/01/16 22:49:47 kid1| /var/spool/squid exists
+2026/01/16 22:49:47 kid1| Making directories in /var/spool/squid/00
+2026/01/16 22:49:47 kid1| Making directories in /var/spool/squid/01
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/02
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/03
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/04
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/05
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/06
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/07
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/08
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/09
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/0A
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/0B
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/0C
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/0D
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/0E
+2026/01/16 22:49:48 kid1| Making directories in /var/spool/squid/0F
+2026/01/16 22:49:48| Removing PID file (/run/squid.pid)
+2026/01/16 22:49:48| Processing Configuration File: /etc/squid/squid.conf (depth 0)
+2026/01/16 22:49:48| Created PID file (/run/squid.pid)
+2026/01/16 22:49:48 kid1| Processing Configuration File: /etc/squid/squid.conf (depth 0)
+2026/01/16 22:49:48 kid1| Current Directory is /
+2026/01/16 22:49:48 kid1| Starting Squid Cache version 6.13 for x86_64-pc-linux-gnu...
+2026/01/16 22:49:48 kid1| Service Name: squid
+2026/01/16 22:49:48 kid1| Process ID 50
+2026/01/16 22:49:48 kid1| Process Roles: worker
+2026/01/16 22:49:48 kid1| With 65535 file descriptors available
+2026/01/16 22:49:48 kid1| Initializing IP Cache...
+2026/01/16 22:49:48 kid1| DNS IPv6 socket created at [::], FD 7
+2026/01/16 22:49:48 kid1| DNS IPv4 socket created at 0.0.0.0, FD 8
+2026/01/16 22:49:48 kid1| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2026/01/16 22:49:48 kid1| Adding domain cn.csn.corp from /etc/resolv.conf
+2026/01/16 22:49:48 kid1| Adding ndots 1 from /etc/resolv.conf
+2026/01/16 22:49:48 kid1| Logfile: opening log daemon:/var/log/squid/access.log
+2026/01/16 22:49:48 kid1| Logfile Daemon: opening log /var/log/squid/access.log
+2026/01/16 22:49:48 kid1| Unlinkd pipe opened on FD 14
+2026/01/16 22:49:48 kid1| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2026/01/16 22:49:48 kid1| Store logging disabled
+2026/01/16 22:49:48 kid1| Swap maxSize 10485760 + 262144 KB, estimated 826761 objects
+2026/01/16 22:49:48 kid1| Target number of buckets: 41338
+2026/01/16 22:49:48 kid1| Using 65536 Store buckets
+2026/01/16 22:49:48 kid1| Max Mem  size: 262144 KB
+2026/01/16 22:49:48 kid1| Max Swap size: 10485760 KB
+2026/01/16 22:49:48 kid1| Rebuilding storage in /var/spool/squid (no log)
+2026/01/16 22:49:48 kid1| Using Least Load store dir selection
+2026/01/16 22:49:48 kid1| Current Directory is /
+2026/01/16 22:49:48 kid1| Finished loading MIME types and icons.
+2026/01/16 22:49:48 kid1| HTCP Disabled.
+2026/01/16 22:49:48 kid1| Pinger socket opened on FD 18
+2026/01/16 22:49:48 kid1| Squid plugin modules loaded: 0
+2026/01/16 22:49:48 kid1| Adaptation support is off.
+2026/01/16 22:49:48 kid1| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 16 flags=9
+    listening port: 3128
+2026/01/16 22:49:48 kid1| Done scanning /var/spool/squid dir (0 entries)
+2026/01/16 22:49:48 kid1| Finished rebuilding storage from disk.
+          0 Entries scanned
+          0 Invalid entries
+          0 With invalid flags
+          0 Objects loaded
+          0 Objects expired
+          0 Objects canceled
+          0 Duplicate URLs purged
+          0 Swapfile clashes avoided
+    Took 0.13 seconds (0.00 objects/sec).
+2026/01/16 22:49:48 kid1| Beginning Validation Procedure
+2026/01/16 22:49:48 kid1| Completed Validation Procedure
+    Validated 0 Entries
+    store_swap_size = 0.00 KB
+2026/01/16 22:49:48 pinger| Initialising ICMP pinger ...
+2026/01/16 22:49:48 pinger| ICMP socket opened.
+2026/01/16 22:49:48 pinger| ICMPv6 socket opened
+2026/01/16 22:49:49 kid1| storeLateRelease: released 0 objects
+2026/01/16 22:54:19| Processing Configuration File: /etc/squid/squid.conf (depth 0)
+2026/01/16 22:54:19| Created PID file (/run/squid.pid)
+2026/01/16 22:54:19| Current Directory is /
+2026/01/16 22:54:19| Starting Squid Cache version 6.13 for x86_64-pc-linux-gnu...
+2026/01/16 22:54:19| Service Name: squid
+2026/01/16 22:54:19| Process ID 8
+2026/01/16 22:54:19| Process Roles: master worker
+2026/01/16 22:54:19| With 1024 file descriptors available
+2026/01/16 22:54:19| Initializing IP Cache...
+2026/01/16 22:54:19| DNS IPv6 socket created at [::], FD 8
+2026/01/16 22:54:19| DNS IPv4 socket created at 0.0.0.0, FD 9
+2026/01/16 22:54:19| Adding nameserver 127.0.0.11 from /etc/resolv.conf
+2026/01/16 22:54:19| Adding domain cn.csn.corp from /etc/resolv.conf
+2026/01/16 22:54:19| Adding ndots 1 from /etc/resolv.conf
+2026/01/16 22:54:19| Logfile: opening log daemon:/var/log/squid/access.log
+2026/01/16 22:54:19| Logfile Daemon: opening log /var/log/squid/access.log
+2026/01/16 22:54:19| Unlinkd pipe opened on FD 15
+2026/01/16 22:54:19| Local cache digest enabled; rebuild/rewrite every 3600/3600 sec
+2026/01/16 22:54:19| Store logging disabled
+2026/01/16 22:54:19| Swap maxSize 10485760 + 262144 KB, estimated 826761 objects
+2026/01/16 22:54:19| Target number of buckets: 41338
+2026/01/16 22:54:19| Using 65536 Store buckets
+2026/01/16 22:54:19| Max Mem  size: 262144 KB
+2026/01/16 22:54:19| Max Swap size: 10485760 KB
+2026/01/16 22:54:19| Rebuilding storage in /var/spool/squid (dirty log)
+2026/01/16 22:54:19| Using Least Load store dir selection
+2026/01/16 22:54:19| Current Directory is /
+2026/01/16 22:54:19| Finished loading MIME types and icons.
+2026/01/16 22:54:19| HTCP Disabled.
+2026/01/16 22:54:19| Pinger socket opened on FD 20
+2026/01/16 22:54:19| Squid plugin modules loaded: 0
+2026/01/16 22:54:19| Adaptation support is off.
+2026/01/16 22:54:19| Accepting HTTP Socket connections at conn3 local=[::]:3128 remote=[::] FD 18 flags=9
+    listening port: 3128
+2026/01/16 22:54:19| Done reading /var/spool/squid swaplog (0 entries)
+2026/01/16 22:54:19| Indexing cache entries: 0.00% (0 out of 1)
+2026/01/16 22:54:19| Finished rebuilding storage from disk.
+          0 Entries scanned
+          0 Invalid entries
+          0 With invalid flags
+          0 Objects loaded
+          0 Objects expired
+          0 Objects canceled
+          0 Duplicate URLs purged
+          0 Swapfile clashes avoided
+    Took 0.04 seconds (0.00 objects/sec).
+2026/01/16 22:54:19| Beginning Validation Procedure
+2026/01/16 22:54:19| Completed Validation Procedure
+    Validated 0 Entries
+    store_swap_size = 0.00 KB
+2026/01/16 22:54:19 pinger| Initialising ICMP pinger ...
+2026/01/16 22:54:19 pinger| ICMP socket opened.
+2026/01/16 22:54:19 pinger| ICMPv6 socket opened
+2026/01/16 22:54:20| storeLateRelease: released 0 objects

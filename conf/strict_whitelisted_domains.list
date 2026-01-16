@@ -19,7 +19,6 @@ ftp.creekside.network
 # EPEL
 .fedoraproject.org
 .getfedora.org
-.copr-be.cloud.fedoraproject.org
 .elrepo.org
 
 # Almalinux
