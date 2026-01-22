@@ -88,24 +88,9 @@ download.sublimetext.com
 # gnu
 ftp.gnu.org
 
-# OS Repos
-.rockylinux.org
-.fedoraproject.org
-
 # Open OnDemand
 .osc.edu
 .osc.github.io
-
-# HPC / Slurm
 .schedmd.com
-.omnivector-solutions.github.io
-
-# Scripting & Development
-.github.com
-.githubusercontent.com
 .rubygems.org
 .npmjs.org
-
-# Container Registry (if applicable)
-.docker.io
-.docker.com
