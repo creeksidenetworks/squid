@@ -57,6 +57,8 @@ rpms.remirepo.net
 .mcr.microsoft.com
 .docker.elastic.co
 .nvcr.io
+.cloud.comflarestorage.com
+.cloudfront.net
 
 # VSCode & Microsoft packages
 .vscode-cdn.net
