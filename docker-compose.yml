@@ -7,7 +7,7 @@ services:
       - "3128:3128"
     volumes:
       - ./conf/squid.conf:/etc/squid/squid.conf
-      - ./conf/strict_whitelisted_domains.list:/etc/squid/strict_whitelisted_domains.list
+      - ./conf/linux_repos.list:/etc/squid/linux_repos.list
       - ./conf/ms365_oidc_domains.list:/etc/squid/ms365_oidc_domains.list
       - ./conf/ms365_allowed_ips.list:/etc/squid/ms365_allowed_ips.list
     # Use standard foreground flag -N and -d1 for basic debugging

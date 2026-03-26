@@ -93,6 +93,41 @@ ftp.gnu.org
 # Open OnDemand
 .osc.edu
 .osc.github.io
+.openondemand.org
 .schedmd.com
 .rubygems.org
 .npmjs.org
+.npmjs.com
+.yarnpkg.com
+
+# Node.js (NodeSource repos for OOD and other tools)
+.nodesource.com
+.nodejs.org
+
+# Ruby / Passenger (used by Open OnDemand)
+.ruby-lang.org
+.phusionpassenger.com
+
+# Java (Adoptium/Temurin JDK)
+.adoptium.net
+
+# Ubuntu
+.ubuntu.com
+.canonical.com
+.launchpad.net
+.snapcraftcontent.com
+
+# TurboVNC
+.turbovnc.org
+
+# Xpra
+.xpra.org
+
+# SourceForge (GTKWave, TurboVNC, and other open-source tools)
+.sourceforge.net
+
+# Cloudsmith (general open-source package hosting)
+.cloudsmith.io
+
+# Fastly CDN (used by RubyGems, PyPI, npm, and others)
+.fastly.net
