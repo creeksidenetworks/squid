@@ -46,6 +46,9 @@ rpms.remirepo.net
 # UK mirrors
 .mirrorservice.org
 
+# UAE mirrors
+sa.mirrors.cicku.me
+
 # Docker & container registries
 .quay.io
 .docker.com
