@@ -1,0 +1,5 @@
+# List of Linux server IPs allowed to send email via MS365 / Azure Communication Service
+# Add your server IPs here, one per line (CIDR notation supported)
+# Examples:
+# 192.168.1.20
+# 10.0.1.0/24

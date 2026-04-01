@@ -1,0 +1,5 @@
+# Microsoft 365 SMTP relay endpoints
+smtp.office365.com
+
+# Azure Communication Services SMTP relay endpoint
+smtp.azurecomm.net
