@@ -134,3 +134,8 @@ ftp.gnu.org
 
 # Fastly CDN (used by RubyGems, PyPI, npm, and others)
 .fastly.net
+
+#
+www.scootersoftware.com
+deb.termius.com
+
